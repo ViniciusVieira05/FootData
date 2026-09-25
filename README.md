@@ -44,7 +44,7 @@ Antes de executar o projeto, certifique-se de ter instalado:
 1. Clone o repositório:
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/ViniciusVieira05/FootData.git
 cd api-esporte
 ```
 
